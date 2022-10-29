@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @labisigloria
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript
+- 👋 Hi there, i'm Olabisi Adekoya
+
+i am a final year student of FUTA, a frontend developer, a web3 enthusiast, i love learning new things and taking on challenges.
+
+- 👀 I’m currently a mentee of Web3Ladies
+- 🌱 I’m currently learning javascript, React.
+- I'm looking to work as an intern in web3 companies.
+- pronouns: she, her.
 
 
 <!---
