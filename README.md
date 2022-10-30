@@ -1,11 +1,11 @@
-- 👋 Hi there, i'm Olabisi Adekoya
+- Hi 👋, i'm Olabisi Adekoya
 
-i am a final year student of FUTA, a frontend developer, a web3 enthusiast, i love learning new things and taking on challenges.
+A frontend developer, a web3 enthusiast, i love learning new things and taking on challenges.
 
 - 👀 I’m currently a mentee of Web3Ladies
-- 🌱 I’m currently learning javascript, React.
-- I'm looking to work as an intern in web3 companies.
-- pronouns: she, her.
+- 🌱 I’m currently learning javascript, React, Css Tailwind.
+- 🙋‍♀️ Pronouns: she, her.
+- 📥 How to reach me gloryolabisi.go@gmail.com 
 
 
 <!---
