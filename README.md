@@ -1,9 +1,9 @@
 - Hi 👋, i'm Olabisi Adekoya
 
-A frontend developer, a web3 enthusiast, i love learning new things and taking on challenges.
+A research enthusiast, data analyst, biomedical engineer. 
 
-- 👀 I’m currently a mentee of Web3Ladies
-- 🌱 I’m currently learning javascript, React, Css Tailwind.
+- 👀 Building a career in data analysis.
+- 🌱 Have adequate knowledge in css, javascript, html.
 - 🙋‍♀️ Pronouns: she, her.
 - 📥 How to reach me gloryolabisi.go@gmail.com 
 
